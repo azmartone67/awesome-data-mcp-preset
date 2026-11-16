@@ -45,7 +45,7 @@ Please contribute by adding new projects or updating existing ones, with relevan
 
 ## Data Providers
 - **DC Hub** — [dchub-mcp-server](https://github.com/azmartone67/dchub-mcp-server) · Remote: `https://dchub.cloud/mcp` · Registry: `cloud.dchub/mcp-server`
-  - The live data layer for data-center site selection. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power, across 300+ markets (96 MCP tools; the free tier needs no key).
+  - The live data layer for data-center site selection. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power, across 300+ markets (97 MCP tools; the free tier needs no key).
 
 ## Contributing
 1. Add the project under the correct heading.  
